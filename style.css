@@ -58,6 +58,7 @@ header {
     align-items: center;
     border: 5px groove #292d32c9;
     padding: 10px;
+    margin-bottom: 15px;
 }
 
 .category-img {
